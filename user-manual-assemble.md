@@ -1,6 +1,8 @@
 #组装
+
 组装Crazyflie 2.1可能需要不到10分钟的时间，但也有一些陷阱。因此，请务必遵循以下说明！
 #拆箱
+
 首先打开盒子。它应包含以下物品:
 ● 1 x Crazyflie 2.1 control board
 ● 1 x 250mAh LiPo battery
