@@ -5,15 +5,25 @@
 
 首先打开盒子。它应包含以下物品:
 ● 1 x Crazyflie 2.1 control board
+
 ● 1 x 250mAh LiPo battery
-● 5 x 7mm DC coreless moto备用r (1 )
+
+● 5 x 7mm DC coreless moto (1 备用)
+
 ● 6 x 7mm motor mounts (2 备用)
+
 ● 1 x Foam battery pad
+
 ● 5 x CCW propellers (3 备用)
+
 ● 5 x CW propellers (3 备用)
+
 ● 1 x Battery holder deck
+
 ● 2 x Short male deck connectors
+
 ● 2 x Long male deck connectors
+
 ● 1 x micro-USB cable (48cm )
 
 # 扭曲电机电线
