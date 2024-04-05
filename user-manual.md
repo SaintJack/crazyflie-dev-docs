@@ -2,12 +2,10 @@
 
 #安全与常规信息
 Crazyflie 2.1是Bitcraze AB设计，中国组装。
+
 #声明
-The information in this document is subject to change without notice. Bitcraze AB assumes
-no responsibility for any omissions or inaccuracies and specifically disclaims liabilities,
-losses, or risks, personal or otherwise, incurred as a consequence, directly or indirectly, of
-the use of any of the contents of this document. Please contact Bitcraze AB for the latest
-version of this documentation.
+
+
 本文档中的信息如有更改，恕不另行通知。Bitcraze AB 假设对任何遗漏或不准确概不负责，并明确表示
 不承担任何责任，因以下原因直接或间接造成的损失或风险，无论是个人的还是其他的使用本文档的任何
 内容。请联系 Bitcraze AB 获取最新信息本文档的版本。
